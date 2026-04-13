@@ -1,0 +1,12 @@
+
+Validation Set:
+  Accuracy:  0.9496
+  Precision: 0.9575
+  Recall:    0.9496
+  F1 Score:  0.9521
+
+Test Set:
+  Accuracy:  0.9549
+  Precision: 0.9620
+  Recall:    0.9549
+  F1 Score:  0.9572
