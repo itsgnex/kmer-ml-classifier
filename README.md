@@ -385,6 +385,16 @@ Three repeated runs (1, 2, 3) are stored in `Old_results/` and `New_results/`.
 
 ---
 
+## Repository Notes
+- `Old_results/` contains the final results reported in the paper.
+- `New_results/` contains exploratory testing on an additional external dataset source used only to verify whether the pipeline generalized correctly. These outputs are not part of the final manuscript.
+- Large generated feature files such as `X_features.npy` and `y_labels.npy` are excluded because of GitHub file size limitations and can be regenerated using `extract_features_pipeline.py`.
+- Full FASTA datasets are also excluded for size reasons; representative sample FASTA inputs are included for demonstration and reproducibility of the workflow.
+- Please contact the Author Ratna Kosuhik Appasani for obtaining the .Fasta, `X_features.npy` and `y_labels.npy` files.
+
+---
+
+
 ## Future Improvements
 
 - [ ] Integrate primer sequence removal before feature extraction
