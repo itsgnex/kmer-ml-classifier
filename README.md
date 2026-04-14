@@ -46,11 +46,11 @@ The 16S rRNA gene is a standard marker for bacterial taxonomy. However, same-gen
 
 ### OLD Dataset (Enteropathogenic *Escherichia*)
 
-- *E. marmotae* (1,255 sequences)
+- *E. albertii* (50,586 sequences)
 - *E. coli* (15,861 sequences)
-- *E. ruysiae* (360 sequences)
-- *E. fergusoni* (3,865 sequences)
-- *E. albertii* (8,003 sequences)
+- *E. fergusonii* (3,865 sequences)
+- *E. marmotae* (1,255 sequences)
+- *E. ruysiae* (315 sequences)
 - **Total: 29,344 sequences**
 
 ### NEW Dataset (Enteric Pathogens)
@@ -409,13 +409,10 @@ Three repeated runs (1, 2, 3) are stored in `Old_results/` and `New_results/`.
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you use this repository, please cite it as:
 
-```
-Koushik Ratnakoushika Appasani. (2024). Species-Level Classification 
-of Closely Related Bacteria Using Alignment-Free DNA Features and 
-Machine Learning. GitHub Repository.
-```
+```text
+Ratna Koushik Appasani. Species-Level Classification of Closely Related Escherichia Bacteria Using Alignment-Free DNA Features and Machine Learning. GitHub repository, 2026.
 
 ---
 
